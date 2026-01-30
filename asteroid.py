@@ -1,5 +1,5 @@
 from circleshape import CircleShape
-from constants import *
+from settings import *
 import pygame
 from logger import log_event
 import random
